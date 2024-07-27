@@ -6,8 +6,8 @@
 - 🏢 Computer Science student [@University of Miskolc](https://www.uni-miskolc.hu/)
 - 🏢 Software Engineer Intern [@Bosch](https://www.bosch.hu/vallalatunk/a-bosch-magyarorszagon/miskolc-robert-bosch-power-tool-kft/), in Miskolc, Borsod-Abaúj-Zemplén, Hungary
 
-[![Linkedin: OnodiBence](https://img.shields.io/badge/-OnodiBence-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OnodiBence/)](https://www.linkedin.com/in/OnodiBence/)
-[![Linkedin: stackoverflow](https://img.shields.io/badge/-stackoverflow-f48024?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20776439/theonodi)](https://stackoverflow.com/users/20776439/theonodi)
+[![Linkedin: linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OnodiBence/)](https://www.linkedin.com/in/OnodiBence/)
+[![Linkedin: stackoverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20776439/theonodi)](https://stackoverflow.com/users/20776439/theonodi)
 
 ### Languages and Tools
 <div align="left">
