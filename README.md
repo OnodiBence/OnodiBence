@@ -2,7 +2,6 @@
     <h1>Hi there, I am Bence 👋👨‍💻</h1>
 </div>
 
-### whoami
 - 📚 Computer Science student [@University of Miskolc](https://www.uni-miskolc.hu/)
 - 💼 Software Engineer Intern [@Bosch](https://www.bosch.hu/vallalatunk/a-bosch-magyarorszagon/miskolc-robert-bosch-power-tool-kft/) 📌 Miskolc, Borsod-Abaúj-Zemplén, Hungary
 
