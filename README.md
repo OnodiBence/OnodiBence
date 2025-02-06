@@ -3,7 +3,7 @@
 </div>
 
 - 📚 Computer Science student [@University of Miskolc](https://www.uni-miskolc.hu/)
-- 💼 Software Engineer Intern [@Bosch](https://www.bosch.hu/vallalatunk/a-bosch-magyarorszagon/miskolc-robert-bosch-power-tool-kft/) 📌 Miskolc, Borsod-Abaúj-Zemplén, Hungary
+- 💼 Software Developer Intern [@Bosch](https://www.bosch.hu/vallalatunk/a-bosch-magyarorszagon/miskolc-robert-bosch-power-tool-kft/) 📌 Miskolc, Borsod-Abaúj-Zemplén, Hungary
 
 [![Linkedin: linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OnodiBence/)](https://www.linkedin.com/in/OnodiBence/)
 [![Linkedin: stackoverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20776439/theonodi)](https://stackoverflow.com/users/20776439/theonodi)
